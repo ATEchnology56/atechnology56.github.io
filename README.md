@@ -8,7 +8,7 @@ Projelerimiz:
 
 [TEES](https://atechnology56.github.io/TEES)
 
-[Karanlıkta parlayan ışık](https://atechnology56.github.io/Karanlikta-parlayan-isik/)
+[Karanlıkta parlayan ışık](https://atechnology56.github.io/karanlikta-parlayan-isik/)
 
 [5 taş](https://atechnology56.github.io/5tas)
 
